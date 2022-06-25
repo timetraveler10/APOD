@@ -1,1 +1,7 @@
-OS Project made by me , Asama Soliman , Alaa Abdelfatah
+Tech Stack
+-Jetpack Compose
+-Kotlin
+-Room Database
+-Ktor Client
+-Palette API
+
